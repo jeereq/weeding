@@ -247,7 +247,7 @@ function App() {
             <div className="flex items-center justify-between py-4">
               <div className="flex items-center space-x-2">
                 <Camera className="w-8 h-8 text-gray-900 dark:text-[#e4ccaa]" />
-                <span className="text-xl font-bold text-gray-900 dark:text-[#e4ccaa]">EventLens</span>
+                <span className="text-xl font-bold text-gray-900 dark:text-[#e4ccaa]">CONGO.EVENT</span>
               </div>
               
               <div className="flex items-center space-x-4">
